@@ -3,7 +3,7 @@ hero:
   heading: Clever Hydration
   maxWidthPX: "652"
 seo:
-  image: "/images/hero-2.jpg"
+  image: "/images/820x312banner.svg"
 
 ---
 Be Clever
