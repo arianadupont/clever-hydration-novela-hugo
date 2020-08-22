@@ -18,3 +18,9 @@ fields:
     min: 
     max: 
     step: 
+- name: clever_bckground
+  type: file
+  config:
+    maxSize: 64
+  label: clever bckground
+  default: "/images/820x312banner.svg"
