@@ -6,6 +6,6 @@ seo:
   image: "/images/820x312banner.svg"
 
 ---
-Be Clever
+Be Clever, Hydrate with performance
 
 ![](/images/820x312banner.svg)
